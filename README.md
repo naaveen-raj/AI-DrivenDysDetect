@@ -52,4 +52,4 @@ get the project with this link "https://drive.google.com/file/d/1rSyuAHwqf0wtBWq
 
 # Screenshots
 
-(Screenshots/Main.mp4)
+![Demo](Screenshots/Main.mp4)
