@@ -50,3 +50,6 @@ get the project with this link "https://drive.google.com/file/d/1rSyuAHwqf0wtBWq
 - 4.Run the project on your local server with the path games/dyslexia-learning-aid/npm start 
 - 5.Take another terminal and chnage folder to games/dyslexia-learning-aid/DyslexiaML-Master/streamlit run DyslexiaML.py
 
+# Screenshots
+
+[App Screenshot](screenshots/AI-DrivenDysDetect\Screenshots\React App - Google Chrome 2025-05-30 13-15-38.mp4)
