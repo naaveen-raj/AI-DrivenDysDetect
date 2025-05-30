@@ -44,9 +44,9 @@ get the project with this link "https://drive.google.com/file/d/1rSyuAHwqf0wtBWq
 
 # Installation
 
-1.Install XAMPP on your PC 
-2.Import data tables which are in the zip file into xampp server
-3.Open the project in your code editor
-4.Run the project on your local server with the path games/dyslexia-learning-aid/npm start 
-5.Take another terminal and chnage folder to games/dyslexia-learning-aid/DyslexiaML-Master/streamlit run DyslexiaML.py
+- 1.Install XAMPP on your PC 
+- 2.Import data tables which are in the zip file into xampp server
+- 3.Open the project in your code editor
+- 4.Run the project on your local server with the path games/dyslexia-learning-aid/npm start 
+- 5.Take another terminal and chnage folder to games/dyslexia-learning-aid/DyslexiaML-Master/streamlit run DyslexiaML.py
 
