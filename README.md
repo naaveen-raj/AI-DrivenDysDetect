@@ -40,7 +40,8 @@ This project serves as a digital aid for dyslexic children, offering features li
 ---
 # Prerequisite
 
-get the project with this link "https://drive.google.com/file/d/1rSyuAHwqf0wtBWqOL1Se0b4DNfUz22kO/view?usp=sharing"
+get the project with this link "https://drive.google.com/file/d/1rSyuAHwqf0wtBWqOL1Se0b4DNfUz22kO/view?usp=sharing" the full project is in the below zip file
+https://drive.google.com/file/d/1S2GCU-n3ijfr0f_CRtqpP9jWHRgk5SAg/view?usp=sharing
 
 # Installation
 
